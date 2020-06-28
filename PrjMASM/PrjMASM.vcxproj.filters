@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="Moves.asm">
+    <MASM Include="CopyStr.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>
