@@ -1,3 +1,7 @@
 Debug/
 PrjMASM/Debug/
 .vs/
+
+*.vcxproj
+*.filters
+PrjMASM/PrjMASM.vcxproj

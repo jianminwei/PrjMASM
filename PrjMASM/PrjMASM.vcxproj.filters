@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="AddVariables.asm">
+    <MASM Include="Moves.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>
