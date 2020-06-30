@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="CopyStr.asm">
+    <MASM Include="ch06_IsDigit.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>
