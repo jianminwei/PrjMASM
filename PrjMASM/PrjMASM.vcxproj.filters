@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="ch06_IsDigit.asm">
+    <MASM Include="ch08_dump_mem.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>
